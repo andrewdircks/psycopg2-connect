@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     
 setup(
     name="psycopg2-connect",
-    version="0.0.1",
+    version="0.0.3",
     author="Andrew Dircks",
     author_email="abd93@cornell.edu",
     description="A lightweight package for connecting to postgres servers.",
