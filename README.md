@@ -1,4 +1,4 @@
-# GFunction Auth
+# Psycopg2 Connect
 
 Connect to postgres servers using `psycopg2`.
 

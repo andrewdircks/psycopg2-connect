@@ -17,6 +17,6 @@ setup(
         "Operating System :: OS Independent"
     ],
     install_requires=['psycopg2'],
-    packages=['connect'],
+    packages=['psycopg2_connect'],
     python_requires=">=3.7",
 )
